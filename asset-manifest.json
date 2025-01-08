@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MOSISwebsite/static/css/main.4815440e.css",
-    "main.js": "/MOSISwebsite/static/js/main.25c32de9.js",
+    "main.css": "/MOSISwebsite/static/css/main.d4336e04.css",
+    "main.js": "/MOSISwebsite/static/js/main.8d86ad55.js",
     "static/js/488.4e1b77ce.chunk.js": "/MOSISwebsite/static/js/488.4e1b77ce.chunk.js",
     "static/media/slideshow2.png": "/MOSISwebsite/static/media/slideshow2.a21984e895c321d34faf.png",
-    "static/media/logo-long.png": "/MOSISwebsite/static/media/logo-long.3f1884d19a0f2fd61e57.png",
+    "static/media/logo-long.png": "/MOSISwebsite/static/media/logo-long.32df6838f92215b6953e.png",
     "static/media/logo-circle.png": "/MOSISwebsite/static/media/logo-circle.6031a4936008b4b79d94.png",
     "static/media/slideshow3.png": "/MOSISwebsite/static/media/slideshow3.e4b5a9177232a2cd417d.png",
     "static/media/backg.jpeg": "/MOSISwebsite/static/media/backg.951dab39075e77adf4dc.jpeg",
     "static/media/slideshow1.png": "/MOSISwebsite/static/media/slideshow1.061b6f56d6cf96fdfd28.png",
     "static/media/slideshow4.png": "/MOSISwebsite/static/media/slideshow4.76f91e9212e9a33581e5.png",
     "index.html": "/MOSISwebsite/index.html",
-    "main.4815440e.css.map": "/MOSISwebsite/static/css/main.4815440e.css.map",
-    "main.25c32de9.js.map": "/MOSISwebsite/static/js/main.25c32de9.js.map",
+    "main.d4336e04.css.map": "/MOSISwebsite/static/css/main.d4336e04.css.map",
+    "main.8d86ad55.js.map": "/MOSISwebsite/static/js/main.8d86ad55.js.map",
     "488.4e1b77ce.chunk.js.map": "/MOSISwebsite/static/js/488.4e1b77ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4815440e.css",
-    "static/js/main.25c32de9.js"
+    "static/css/main.d4336e04.css",
+    "static/js/main.8d86ad55.js"
   ]
 }
