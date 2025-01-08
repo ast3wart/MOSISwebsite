@@ -90,7 +90,7 @@ const Home = () => {
         {/* Hero Text */}
         <div className="hero-content">
           <h1>Welcome to MOSIS</h1>
-          <p>Quote here.</p>
+          <p>Summary here.</p>
           <Link to="/about">
             <button className="cta-button">Learn More</button>
           </Link>
