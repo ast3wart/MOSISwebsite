@@ -9,13 +9,13 @@ const Footer = () => {
   const handleEasterEggClick = () => {
     setClickCount((prev) => prev + 1);
     if (clickCount + 1 === 3) {
-      setShowVideo(true); // Show the video popup after 3 clicks
-      setClickCount(0); // Reset the counter
+      setShowVideo(true);
+      setClickCount(0);
     }
   };
 
   const closeVideo = () => {
-    setShowVideo(false); // Hide the video popup
+    setShowVideo(false);
   };
 
   return (
