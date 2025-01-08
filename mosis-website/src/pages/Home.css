@@ -1,9 +1,10 @@
 .slideshow-container {
   display: flex;
-  overflow-x: auto;
+  overflow-x: hidden;
   scroll-behavior: smooth;
   white-space: nowrap;
   cursor: grab;
+  margin-top: 5px;
 }
 
 .slideshow-container:active {

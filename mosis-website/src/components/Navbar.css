@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #a7a7a7;
+    background-color: #0e0e0e;
     padding: 0px 20px;
     color: white;
     position: sticky;
@@ -38,12 +38,12 @@
   }
   
   .navbar-links a:hover {
-    background-color: #555;
+    background-color: #d1d1d1;
     color: white;
   }
   
   .navbar-links a:focus {
-    background-color: #555;
+    background-color: #d1d1d1;
     color: white;
   }
   
