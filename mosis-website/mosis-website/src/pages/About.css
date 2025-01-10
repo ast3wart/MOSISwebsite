@@ -1,0 +1,87 @@
+.about-hero {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    text-align: left;
+    padding-left: 80px;
+  }
+  
+  .about-hero h1 {
+    font-size: 3rem;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px 20px;
+    border-radius: 10px;
+  }  
+  
+  .about-content {
+    text-align: center;
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-content blockquote {
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .about-content p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+  }
+  
+  .leadership-team {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .leadership-team h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .team-members {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .team-member {
+    text-align: center;
+    max-width: 200px;
+  }
+  
+  .team-member img {
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    border: 2px solid #ddd;
+  }
+  
+  .team-member h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .team-member p {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+  
+  .team-member a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
+  .team-member a:hover {
+    text-decoration: underline;
+  }
+  
